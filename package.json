@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "anti-link-discord": "^1.0.4",
+    "discord-buttons": "^4.0.0",
+    "discord-logs": "^2.0.1",
+    "discord-tictactoe": "^2.1.1",
+    "discord.js-collector": "^1.8.9",
+    "mongoose": "^6.0.12",
+    "request": "^2.88.2"
+  }
+}
